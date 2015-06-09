@@ -1,0 +1,644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onl",
+				"onclick	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"overf",
+				"overflow-y"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"color-C",
+				"color-C-40"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"overflo",
+				"overflow"
+			],
+			[
+				"rgba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"oveflow",
+				"overflow-y"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".fontcustom-manifest.json",
+			"settings":
+			{
+				"buffer_size": 1643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "160b 0000 5c0a 0000 0100 0200 0000 0000\n0200 0503 0000 0000 0000 0100 9001 0000\n0000 4c50 0100 0000 0000 0010 0000 0000\n0000 0000 0100 0000 0000 0000 9848 6da7\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 1400 6600 6f00 6e00 7400 6300 7500\n7300 7400 6f00 6d00 0000 0e00 5200 6500\n6700 7500 6c00 6100 7200 0000 2000 5600\n6500 7200 7300 6900 6f00 6e00 2000 3000\n3000 3100 2e00 3000 3000 3000 2000 0000\n1400 6600 6f00 6e00 7400 6300 7500 7300\n7400 6f00 6d00 0000 0000 0001 0000 000d\n0080 0003 0050 4646 544d 74a5 898b 0000\n0a40 0000 001c 4f53 2f32 4fb6 5cf0 0000\n0158 0000 0060 636d 6170 e1f8 15ff 0000\n01d4 0000 014a 6376 7420 0011 0144 0000\n0320 0000 0004 6761 7370 ffff 0003 0000\n0a38 0000 0008 676c 7966 d00e b32f 0000\n0338 0000 047c 6865 6164 0456 42c1 0000\n00dc 0000 0036 6868 6561 03ef 0206 0000\n0114 0000 0024 686d 7478 042e 0011 0000\n01b8 0000 001c 6c6f 6361 02b2 044a 0000\n0324 0000 0014 6d61 7870 0053 00b3 0000\n0138 0000 0020 6e61 6d65 6a81 dcca 0000\n07b4 0000 0228 706f 7374 8618 1c2e 0000\n09dc 0000 005c 0001 0000 0001 0000 a76d\n4898 5f0f 3cf5 000b 0200 0000 0000 d19c\n0102 0000 0000 d19c 0102 0000 0000 0200\n01c0 0000 0008 0002 0000 0000 0000 0001\n0000 01c0 0000 002e 0200 0000 0000 0200\n0001 0000 0000 0000 0000 0000 0000 0000\n0005 0001 0000 0009 0082 0008 0000 0000\n0002 0000 0001 0001 0000 0040 002e 0000\n0000 0004 01cc 0190 0005 0000 014c 0166\n0000 0047 014c 0166 0000 00f5 0019 0084\n0000 0200 0503 0000 0000 0000 0000 0001\n1000 0000 0000 0000 0000 0000 5066 4564\n0080 0020 f104 01c0 ffc0 002e 01c0 0000\n0000 0001 0000 0000 0000 0000 0000 0020\n0001 00bb 0011 0000 0000 00aa 0000 00c8\n0000 0200 0000 0000 0000 0001 0000 0000\n0003 0000 0003 0000 001c 0001 0000 0000\n0044 0003 0001 0000 001c 0004 0028 0000\n0006 0004 0001 0002 0020 f104 ffff 0000\n0020 f100 ffff ffe3 0f04 0001 0000 0000\n0000 0000 0106 0000 0100 0000 0000 0000\n0102 0000 0002 0000 0000 0000 0000 0000\n0000 0000 0001 0000 0300 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0000 0000 0011 0144 0000\n002a 002a 002a 002a 008a 00d8 012e 0186\n023e 0002 0011 0000 0099 0155 0003 0007\n002e b101 002f 3cb2 0704 00ed 32b1 0605\ndc3c b203 0200 ed32 00b1 0300 2f3c b205\n0400 ed32 b207 0601 fc3c b201 0200 ed32\n3311 3311 2733 1123 1188 7766 6601 55fe\nab11 0133 0000 0008 0000 003c 01a7 01c0\n0003 0007 000b 000f 001e 0034 003e 0046\n0000 3735 3315 3335 3315 3335 3315 3335\n3315 1716 1721 1133 1715 0607 3523 3523\n1125 3217 1514 2b01 223d 0134 3b01 3534\n363b 0132 161d 0107 2736 3534 2215 1417\n0737 2734 2b01 221d 0141 2a0f 2b0e 2b0e\n2905 0403 fedf f256 0c0c 40d8 0186 0701\n0752 0707 0211 0c13 0c11 1e04 0413 0404\n1d01 0914 0985 3333 4e4e 5b5b 8484 2510\n0801 7859 7a0a 0c89 48fe b833 0749 0707\n4907 1d0c 1111 0c1d 4415 0305 0a0a 0503\n1544 1d0a 0a1d 0008 0000 0048 01f8 01c0\n000c 0010 0014 0018 001c 0025 002c 0039\n0000 2515 2111 3317 1523 3523 3523 1137\n3533 1533 3533 1533 3533 1533 3533 1537\n3332 1615 1406 2b01 3733 3235 342b 0137\n3315 2315 3315 2315 3315 2335 0116 feea\nea5e 1747 d324 2b0d 2b0e 2a0f 2934 2c14\n1917 162c 1714 191d 1051 4c35 3131 364c\n6017 0177 5e84 8447 feb7 2233 334e 4e5b\n5b83 8335 1918 171c 121e 2113 1216 1118\n1364 0007 0000 0024 0200 01c0 0003 0007\n000b 000f 001e 0024 003c 0000 3735 3315\n3335 3315 3335 3315 3335 3315 1716 1721\n1133 1715 0607 3523 3523 1125 3315 3315\n2337 3216 1406 2b01 3533 3236 3426 2322\n0607 3307 2733 3e02 412a 0f2b 0e2b 0e29\n0504 03fe dff2 560c 0c40 d801 7a14 263a\n1027 3636 2704 041e 2a2a 1e1d 2902 1f29\n291f 0119 2a85 3333 4e4e 5b5b 8484 2510\n0801 7859 7a0a 0c89 48fe b85a 3414 6c36\n4d36 152a 3c2a 271d 3131 1829 1700 0008\n0001 0046 01f4 01bf 0003 0007 000b 000f\n001f 002a 0035 003d 0000 3735 3315 3335\n3315 3335 3315 3335 3315 1716 1721 1133\n1715 2322 0735 2335 2311 2434 3632 1615\n140e 0123 2226 3436 3216 1514 0e01 2322\n3634 3632 1614 0622 3d2a 0f2a 0e2a 0e29\n0b05 09fe daeb 5d05 090a 46d3 0167 0d13\n0d06 0b06 0954 0d12 0e06 0b06 0980 0e12\n0d0d 127f 3333 4e4e 5b5b 8383 210f 0901\n785e b304 b746 feb8 0b13 0d0d 0a06 0a06\n0d13 0d0d 0a06 0a06 0d13 0d0d 130d 0008\n0000 0010 01d6 01c0 0003 0007 000b 000f\n001e 002b 0038 0081 0000 3735 3315 3335\n3315 3335 3315 3335 3315 1716 1721 1133\n1715 0607 3523 3523 1105 0623 3516 1716\n1514 0706 0706 2736 3315 2627 2635 3437\n3637 3607 1617 3522 2622 2631 2627 2627\n2627 2635 3437 3637 3637 3637 3533 1516\n1716 1716 1716 1723 3427 2623 1516 321e\n0133 1617 1617 1617 1615 1407 0607 0607\n0607 1523 3526 2726 2733 1617 3c2b 0f2b\n0e2b 0f29 1401 07fe d2ef 600f 0948 d701\n9204 040b 0705 0303 0203 2004 0309 0604\n0101 0303 0506 0a01 0201 0306 0a06 0706\n0404 0404 0707 0906 0d0d 060b 0a05 0802\n0401 1f05 0507 0103 0104 0111 0706 0704\n0101 0303 0506 0a0a 100d 160f 0e01 1e01\n067c 3434 4e4e 5c5c 8585 220b 0d01 7e60\n940c 0faf 48fe b21d 0229 0205 0508 0504\n0501 0368 0224 0204 0507 0305 0203 0262\n0702 2c01 0102 0302 0605 0708 090a 0a08\n0505 0402 0210 1001 0304 0508 0509 0b09\n0605 2501 0101 0605 0409 0706 0507 0507\n0905 0705 0501 1112 020d 0e17 0d06 0000\n000e 00ae 0001 0000 0000 0000 001d 003c\n0001 0000 0000 0001 000a 0070 0001 0000\n0000 0002 0007 008b 0001 0000 0000 0003\n0025 00df 0001 0000 0000 0004 000a 011b\n0001 0000 0000 0005 0010 0148 0001 0000\n0000 0006 000a 016f 0003 0001 0409 0000\n003a 0000 0003 0001 0409 0001 0014 005a\n0003 0001 0409 0002 000e 007b 0003 0001\n0409 0003 004a 0093 0003 0001 0409 0004\n0014 0105 0003 0001 0409 0005 0020 0126\n0003 0001 0409 0006 0014 0159 0043 006f\n0070 0079 0072 0069 0067 0068 0074 0020\n0028 0063 0029 0020 0032 0030 0031 0035\n002c 0020 0044 006f 006d 0020 004b 0069\n0070 0070 0073 0000 436f 7079 7269 6768\n7420 2863 2920 3230 3135 2c20 446f 6d20\n4b69 7070 7300 0066 006f 006e 0074 0063\n0075 0073 0074 006f 006d 0000 666f 6e74\n6375 7374 6f6d 0000 5200 6500 6700 7500\n6c00 6100 7200 0052 6567 756c 6172 0000\n4600 6f00 6e00 7400 4600 6f00 7200 6700\n6500 2000 3200 2e00 3000 2000 3a00 2000\n6600 6f00 6e00 7400 6300 7500 7300 7400\n6f00 6d00 2000 3a00 2000 3900 2d00 3600\n2d00 3200 3000 3100 3500 0046 6f6e 7446\n6f72 6765 2032 2e30 203a 2066 6f6e 7463\n7573 746f 6d20 3a20 392d 362d 3230 3135\n0000 6600 6f00 6e00 7400 6300 7500 7300\n7400 6f00 6d00 0066 6f6e 7463 7573 746f\n6d00 0056 0065 0072 0073 0069 006f 006e\n0020 0030 0030 0031 002e 0030 0030 0030\n0020 0000 5665 7273 696f 6e20 3030 312e\n3030 3020 0000 6600 6f00 6e00 7400 6300\n7500 7300 7400 6f00 6d00 0066 6f6e 7463\n7573 746f 6d00 0002 0000 0000 0000 ffc0\n0019 0000 0000 0000 0000 0000 0000 0000\n0000 0000 0000 0009 0000 0001 0002 0003\n0102 0103 0104 0105 0106 0775 6e69 4631\n3030 0775 6e69 4631 3031 0775 6e69 4631\n3032 0775 6e69 4631 3033 0775 6e69 4631\n3034 0000 0001 ffff 0002 0000 0001 0000\n0000 d16d 8786 0000 0000 d19c 0102 0000\n0000 d19c 0102 ",
+			"file": "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.eot",
+			"file_size": 2838,
+			"file_write_time": 130782908180000000,
+			"settings":
+			{
+				"buffer_size": 7095,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 367.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dom/Repos/fontcustom",
+		"/Users/dom/Repos/fontcustom/fontcustom",
+		"/Users/dom/Repos/fontcustom/lib"
+	],
+	"file_history":
+	[
+		"/Users/dom/Repos/fontcustom/fontcustom.gemspec",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-direct-entry.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-transaction-history-generate-report.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/reports.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-accounts-header.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-more-view-merchant-report.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-header.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/login.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/site.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/account.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-transaction-history-export-templates.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-transaction-history-quick-export.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/reports.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-more-export-merchant-report.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/pushmenu.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-footer.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-create-transfer-bpay.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-push-menu.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/alerts.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/nav-push.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-more.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-cheques-cancel-cheque.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-create-overseas-payments.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-login.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-changepassword.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-terms.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/includes-dashboard.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/more.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-cheques-stop-cheque.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-audit-log.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-cheques-order-cheque.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-modal-payments-errors.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-tt-create.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-txmgt-telegraphictransfer-landing.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-bsb-search.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-help.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-notifications.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-more-cheques-search-cheques.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/010.libs/092.scripts.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/chequeaccountpopover.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-nav-primary.html",
+		"/Users/dom/Repos/bbo/STG/_svg/bbo-search-x.svg",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/admin.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-security-centre-password.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/admin.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-company-admin-pending-tasks.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-my-settings-my-accounts.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-company-admin-company.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-company-admin-users.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-company-admin-accounts.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-accounts.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/tables.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-reports.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal.less",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/payments.js",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/payees.js",
+		"/Users/dom/Repos/bbo/_CORE/_JS/controllers/dashboard.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-accounts.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-tt-index.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/payments.html",
+		"/Users/dom/Desktop/BBO TT notes.txt",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/index.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-transaction-history-find-transactions.html",
+		"/Users/dom/Repos/bbo/package.json",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-more-order-statement.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-direct-entry-reject.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-summary-consolidated-balance.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-summary-fy-interest-summary.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/accounts.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-reports-more-bpay-reports.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/defaults/theme-foot.html",
+		"/Users/dom/Repos/bbo/STG/_js/breakpointjs.js",
+		"/Users/dom/Desktop/test.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/popover.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-history-index.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-scheduled-index.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/snippets/snippet-payments-inprogress-dummytable.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-tt-edit.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-inprogress-detail.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-create-payment-files-landing.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-tt-details.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-payment-files.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-scheduled-detail.html",
+		"/Users/dom/Desktop/transfer-bpay.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/responsive.less",
+		"/Users/dom/Desktop/payments.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/payees.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-de-index.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/alternate-tab.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-payment-paymentfiles.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-my-settings-token.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-my-settings-token-password.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-my-settings-password.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/toaccountpopover.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/fromaccountpopover.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-accounts-list-view-table.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-history-detail.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-my-settings-security.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-inprogress-all.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-inprogress-authorise-confirm.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/directives/common.directives.js",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-admin.less",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-payment-scheduled.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-inprogress-submit-confirm.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-templates-index.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-payment-files-manage.html",
+		"/Users/dom/Repos/bbo/package.bak",
+		"/Users/dom/Repos/bbo/gruntfile.js",
+		"/Users/dom/Repos/bbo/gruntfile.bak",
+		"/Users/dom/Repos/bbo/_CORE/_HTML/_partials/defeeaccountpopover.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-payment-reports-de-reports.less",
+		"/Users/dom/Repos/bbo/.gitignore",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-admin-company-admin.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-payment-files-review.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-payment-files-landing.html",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-payment-files-create.html",
+		"/Users/dom/Repos/bbo/_CORE/_JS/010.libs/097.jq-sticky-anything.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-transfer-bpay.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/modal-payment-transferbpay.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-nav-sub.html",
+		"/Users/dom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dom/Repos/bbo/package_backup.json",
+		"/Users/dom/Repos/bbo/_CORE/_JS/libs/jquery/jquery-1.9.1.min.js",
+		"/Users/dom/Repos/bbo/gruntfile_backup.js",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/include-payments-overseas.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/contentmodal.less",
+		"/Users/dom/Repos/bbo/_CORE/_HTMLincludes/snippets/snippet-mobile-nav-toggle.html",
+		"/Users/dom/Repos/bbo/_CORE/_less/changepassword.less"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"confirm",
+			"search",
+			"showDeReportsRejectDetails",
+			"\"reports-payment-report-search-options",
+			"click",
+			"showDePaymentLineItem",
+			"8888888888888",
+			"select-merchant-export-option",
+			"select-export-merchant-option",
+			"select export format",
+			".closed",
+			"filter",
+			"toggleFilterOptions",
+			".accounts-utilities",
+			"print",
+			"closed",
+			"print",
+			"Print",
+			".utility-actions {",
+			"utility-action-search",
+			"btn-group-sm",
+			"span.filter-label",
+			"utility-action-filter",
+			"utilities-action-filter",
+			"filter-label",
+			"utility-action-filter",
+			".utility-action-filter",
+			".utility-actions",
+			".utility-actions li button",
+			".utility-actions",
+			"utility-action-search",
+			".circiel",
+			"View transactions on screen",
+			"Select al",
+			"CR",
+			"reports",
+			"Transaction History Report",
+			"Reports",
+			"Description",
+			"select-export-merchant-option",
+			"Select terminal",
+			"reportsMoreShowReports",
+			"reportsMoreMerchantReports",
+			"showMoreMerchantReportsStep2",
+			"showMoreMerchantReportsStep1",
+			"CSV",
+			"alert",
+			"alert//",
+			"alert",
+			"showExportReportDateOption",
+			"select-generate-report-file-format",
+			".paymentfilemethod",
+			"reports-transactions-custom-export-templates",
+			"reports-transaction-history-quick-export",
+			"reports-transaction-history-export-templates",
+			".closed",
+			"btn-group-top",
+			"accounts-utilities",
+			".well",
+			"small-nav-show-new",
+			"-new",
+			"transition",
+			"toggleMobileNav",
+			"toggle-modal-nav",
+			"Select Account, Biller or payee",
+			"Select",
+			"AUD",
+			"USD",
+			"openflyout",
+			"et-save-",
+			"reportDePaymentOption==='history'",
+			"DE Transaction History - Export",
+			"container",
+			"icon-idea",
+			"Fee account",
+			"<span>or",
+			"OR",
+			"overseas number",
+			"Beneficiary Bank Details",
+			"Beneficiary Bank Country",
+			"Beneficiary Bank Details",
+			"top-margin3-xs top-margin2-sm",
+			" top-margin3-xs top-margin2-sm",
+			"showMoreStopCheque",
+			"showMoreSearchCheques",
+			"form-group ",
+			" ng-pristine ng-valid",
+			"showMoreStopCheque",
+			"chooseDeFeeAccount",
+			" ng-class=",
+			" ng-show=",
+			" id=\"create-tab\" ",
+			"Meaningfull text for screen readers",
+			"toggleSingleView",
+			"utilities-filter",
+			"accounts-utilities-filter",
+			"utility-action-filter",
+			"toggle-filter",
+			"accounts-utilities-filter ",
+			"utility-actions",
+			"utility-action-search",
+			"audtab",
+			"Security Center",
+			"Overseas number/code",
+			"BEXADZAL072",
+			"Enter Overseas Bank Details",
+			"London",
+			"showcreatenewtttemplate",
+			"Continue",
+			"Swift",
+			"beneficiarycountry",
+			"select-beneficiary-bank-country",
+			"fx",
+			"rate",
+			"Fee Charged",
+			"activetttab",
+			"alert-news",
+			"alert-new",
+			"alert-news",
+			"select-generate-report-file-format",
+			"change",
+			"reports",
+			"comma",
+			"change",
+			"select all",
+			"(Telegraphic Transfer)",
+			"Fixed",
+			"File format details"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"/images/",
+			"/",
+			"<span class=\"glyphicon glyphicon-download-alt\"></span>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".fontcustom-manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.eot",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "customfont.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Repos/bbo/bbo.sublime-project"
+			],
+			[
+				"msuscle",
+				"~/Dropbox/Sites/muscle-fitness/musclefitness.sublime-project"
+			],
+			[
+				"junto",
+				"~/Repos/juntosmarketing/juntos.sublime-project"
+			],
+			[
+				"oa",
+				"~/Dropbox/Sites/projects/oac.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 569.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

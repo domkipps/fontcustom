@@ -1,0 +1,66 @@
+{
+  "checksum": {
+    "previous": "855ad6fd0326935e07040ee81ed11fe46254bde83df9e1a8f4d80825f73e55f4",
+    "current": "855ad6fd0326935e07040ee81ed11fe46254bde83df9e1a8f4d80825f73e55f4"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.ttf",
+    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.svg",
+    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.woff",
+    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.eot"
+  ],
+  "glyphs": {
+    "reports-audit": {
+      "codepoint": 61696,
+      "source": "svg/reports-audit.svg"
+    },
+    "reports-de": {
+      "codepoint": 61697,
+      "source": "svg/reports-de.svg"
+    },
+    "reports-history": {
+      "codepoint": 61698,
+      "source": "svg/reports-history.svg"
+    },
+    "reports-more": {
+      "codepoint": 61699,
+      "source": "svg/reports-more.svg"
+    },
+    "reports-summary": {
+      "codepoint": 61700,
+      "source": "svg/reports-summary.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

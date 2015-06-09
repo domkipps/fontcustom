@@ -27,7 +27,7 @@ module Fontcustom
     :output => nil,
     :config => nil,
     :templates => %w|css preview|,
-    :font_name => "fontcustom",
+    :font_name => "bbo",
     :font_design_size => 16,
     :font_em => 512,
     :font_ascent => 448,
