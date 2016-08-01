@@ -1,34 +1,58 @@
 {
   "checksum": {
-    "previous": "855ad6fd0326935e07040ee81ed11fe46254bde83df9e1a8f4d80825f73e55f4",
-    "current": "855ad6fd0326935e07040ee81ed11fe46254bde83df9e1a8f4d80825f73e55f4"
+    "previous": "40629d5b593e34e0e059755164358ea0c8d6dbe5deb6170517ecd78321330350",
+    "current": "40629d5b593e34e0e059755164358ea0c8d6dbe5deb6170517ecd78321330350"
   },
   "fonts": [
-    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.ttf",
-    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.svg",
-    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.woff",
-    "fontcustom/fontcustom_855ad6fd0326935e07040ee81ed11fe4.eot"
+    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.ttf",
+    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.svg",
+    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.woff",
+    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.eot"
   ],
   "glyphs": {
-    "reports-audit": {
-      "codepoint": 61696,
-      "source": "svg/reports-audit.svg"
+    "admin-reallocation": {
+      "codepoint": 61724,
+      "source": "svg/admin-reallocation.svg"
+    },
+    "admin-sub-accounts": {
+      "codepoint": 61721,
+      "source": "svg/admin-sub-accounts.svg"
+    },
+    "help": {
+      "codepoint": 61718,
+      "source": "svg/help.svg"
+    },
+    "more-cheques": {
+      "codepoint": 61722,
+      "source": "svg/more-cheques.svg"
+    },
+    "more-trans-management": {
+      "codepoint": 61723,
+      "source": "svg/more-trans-management.svg"
+    },
+    "payments-pip": {
+      "codepoint": 61719,
+      "source": "svg/payments-pip.svg"
+    },
+    "reports-account": {
+      "codepoint": 61714,
+      "source": "svg/reports-account.svg"
     },
     "reports-de": {
-      "codepoint": 61697,
+      "codepoint": 61715,
       "source": "svg/reports-de.svg"
     },
-    "reports-history": {
-      "codepoint": 61698,
-      "source": "svg/reports-history.svg"
+    "reports-dollar": {
+      "codepoint": 61716,
+      "source": "svg/reports-dollar.svg"
     },
-    "reports-more": {
-      "codepoint": 61699,
-      "source": "svg/reports-more.svg"
+    "reports-lock": {
+      "codepoint": 61710,
+      "source": "svg/reports-lock.svg"
     },
-    "reports-summary": {
-      "codepoint": 61700,
-      "source": "svg/reports-summary.svg"
+    "reports-timer": {
+      "codepoint": 61717,
+      "source": "svg/reports-timer.svg"
     }
   },
   "options": {

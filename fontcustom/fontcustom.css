@@ -3,12 +3,12 @@
 */
 
 @font-face {
-  font-family: "fontcustom";
-  src: url("./bbo.eot");
-  src: url("./bbo.eot?#iefix") format("embedded-opentype"),
-       url("./bbo.woff") format("woff"),
-       url("./bbo.ttf") format("truetype"),
-       url("./bbo.svg#fontcustom") format("svg");
+  font-family: "bbo-icons";
+  src: url("./bbo-icons.eot");
+  src: url("./bbo-icons.eot?#iefix") format("embedded-opentype"),
+       url("./bbo-icons.woff") format("woff"),
+       url("./bbo-icons.ttf") format("truetype"),
+       url("./bbo-icons.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,18 +16,24 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./bbo.svg#fontcustom") format("svg");
+    src: url("./bbo-icons.svg#bbo-icons") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
-.icon-reports-audit:before,
+.icon-admin-reallocation:before,
+.icon-admin-sub-accounts:before,
+.icon-help:before,
+.icon-more-cheques:before,
+.icon-more-trans-management:before,
+.icon-payments-pip:before,
+.icon-reports-account:before,
 .icon-reports-de:before,
-.icon-reports-history:before,
-.icon-reports-more:before,
-.icon-reports-summary:before {
+.icon-reports-dollar:before,
+.icon-reports-lock:before,
+.icon-reports-timer:before {
   display: inline-block;
   font-family: "fontcustom";
   font-style: normal;
@@ -42,8 +48,14 @@
   font-smoothing: antialiased;
 }
 
-.icon-reports-audit:before { content: "\f100"; }
-.icon-reports-de:before { content: "\f101"; }
-.icon-reports-history:before { content: "\f102"; }
-.icon-reports-more:before { content: "\f103"; }
-.icon-reports-summary:before { content: "\f104"; }
+.icon-admin-reallocation:before { content: "\f11c"; }
+.icon-admin-sub-accounts:before { content: "\f119"; }
+.icon-help:before { content: "\f116"; }
+.icon-more-cheques:before { content: "\f11a"; }
+.icon-more-trans-management:before { content: "\f11b"; }
+.icon-payments-pip:before { content: "\f117"; }
+.icon-reports-account:before { content: "\f112"; }
+.icon-reports-de:before { content: "\f113"; }
+.icon-reports-dollar:before { content: "\f114"; }
+.icon-reports-lock:before { content: "\f10e"; }
+.icon-reports-timer:before { content: "\f115"; }
