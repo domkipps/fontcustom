@@ -8,21 +8,22 @@
   src: url("./bbo-icons.eot?#iefix") format("embedded-opentype"),
        url("./bbo-icons.woff") format("woff"),
        url("./bbo-icons.ttf") format("truetype"),
-       url("./bbo-icons.svg#fontcustom") format("svg");
+       url("./bbo-icons.svg#bbo-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: "fontcustom";
-    src: url("./bbo-icons.svg#bbo-icons") format("svg");
+    font-family: "bbo-icons";
+    src: url("./bbo-icons.svg#fontcustom") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.icon-Artboard-1:before,
 .icon-admin-reallocation:before,
 .icon-admin-sub-accounts:before,
 .icon-help:before,
@@ -35,7 +36,7 @@
 .icon-reports-lock:before,
 .icon-reports-timer:before {
   display: inline-block;
-  font-family: "fontcustom";
+  font-family: "bbo-icons";
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -48,6 +49,7 @@
   font-smoothing: antialiased;
 }
 
+.icon-Artboard-1:before { content: "\f11d"; }
 .icon-admin-reallocation:before { content: "\f11c"; }
 .icon-admin-sub-accounts:before { content: "\f119"; }
 .icon-help:before { content: "\f116"; }

@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "40629d5b593e34e0e059755164358ea0c8d6dbe5deb6170517ecd78321330350",
-    "current": "40629d5b593e34e0e059755164358ea0c8d6dbe5deb6170517ecd78321330350"
+    "previous": "b18165535698b66e4fb01681539e0304b87c62d5041dfd980a6eebba8102895a",
+    "current": "b18165535698b66e4fb01681539e0304b87c62d5041dfd980a6eebba8102895a"
   },
   "fonts": [
-    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.ttf",
-    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.svg",
-    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.woff",
-    "fontcustom/fontcustom_40629d5b593e34e0e059755164358ea0.eot"
+    "fontcustom/fontcustom_b18165535698b66e4fb01681539e0304.ttf",
+    "fontcustom/fontcustom_b18165535698b66e4fb01681539e0304.svg",
+    "fontcustom/fontcustom_b18165535698b66e4fb01681539e0304.woff",
+    "fontcustom/fontcustom_b18165535698b66e4fb01681539e0304.eot"
   ],
   "glyphs": {
+    "Artboard-1": {
+      "codepoint": 61725,
+      "source": "svg/Artboard 1.svg"
+    },
     "admin-reallocation": {
       "codepoint": 61724,
       "source": "svg/admin-reallocation.svg"
