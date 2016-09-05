@@ -15,17 +15,17 @@
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: "bbo-icons";
-    src: url("./bbo-icons.svg#fontcustom") format("svg");
+    font-family: "fontcustom";
+    src: url("./bbo-icons.svg#bbo-icons") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
-.icon-Artboard-1:before,
 .icon-admin-reallocation:before,
 .icon-admin-sub-accounts:before,
+.icon-group-payments:before,
 .icon-help:before,
 .icon-more-cheques:before,
 .icon-more-trans-management:before,
@@ -34,7 +34,8 @@
 .icon-reports-de:before,
 .icon-reports-dollar:before,
 .icon-reports-lock:before,
-.icon-reports-timer:before {
+.icon-reports-timer:before,
+.icon-search-close:before {
   display: inline-block;
   font-family: "bbo-icons";
   font-style: normal;
@@ -49,9 +50,9 @@
   font-smoothing: antialiased;
 }
 
-.icon-Artboard-1:before { content: "\f11d"; }
 .icon-admin-reallocation:before { content: "\f11c"; }
 .icon-admin-sub-accounts:before { content: "\f119"; }
+.icon-group-payments:before { content: "\f11e"; }
 .icon-help:before { content: "\f116"; }
 .icon-more-cheques:before { content: "\f11a"; }
 .icon-more-trans-management:before { content: "\f11b"; }
@@ -61,3 +62,4 @@
 .icon-reports-dollar:before { content: "\f114"; }
 .icon-reports-lock:before { content: "\f10e"; }
 .icon-reports-timer:before { content: "\f115"; }
+.icon-search-close:before { content: "\f11f"; }
